@@ -7,9 +7,6 @@
     └── transcoded/         # Transcoded HLS manifest playlists and chunks
 ```
 
----
-
-## ⚙️ Getting Started
 
 ### Prerequisites
 - **Node.js** (v16+ recommended)
