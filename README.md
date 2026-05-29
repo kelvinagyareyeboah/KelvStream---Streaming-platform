@@ -2,8 +2,6 @@
 │   │   └── util # AP
 ### Prerequisiteecommended)
 - **Yarn** package manager
-- **FFmpeg** installed on your system PATH.
-  - *Windows*: Run `winget install Gyan.FFmpeg` or download from Gyan.dev and add the `bin` directory to your System Environment variables.
   - *Mac*: `brew install ffmpeg`
 
 ---
