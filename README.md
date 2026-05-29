@@ -77,7 +77,7 @@ youtube-clone-main/
    ```
 3. Add your RapidAPI key to `.env` inside `client/`:
    ```env
-   VITE_REACT_APP_RAPID_API_KEY=b1f98c5952msh6763552ad8b8870p121a5bjsn03ec77f54c00
+   VITE_REACT_APP_RAPID_API_KEY=b1f98c5952msh6763870p121a5bjsn03ec77f54c00
    ```
 4. Start the frontend developer build:
    ```bash
