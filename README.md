@@ -4,7 +4,7 @@ Modern video-sharing platforms cannot deliver raw files direct fs a live, local 
 #
 
 │   │   ├── components/     # UI Components (Navbar, Feed, VideoDetail, etc.)
-│   │   └── utils/          # API services
+│   │   └── util # API services
 │   └── public/             # Icons and static web assets
 └── server/                 # Nockend
     ├── uploads/            # Temporary storage for raw video uploads
