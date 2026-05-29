@@ -11,7 +11,7 @@ KelvStream is a premium, high-performance streaming application designed to demo
 ### 1. Adaptive Bitrate Streaming (HLS)
 Modern video-sharing platforms cannot deliver raw files directly to users. KelvStream features a live, local **HLS Transcoding Pipeline**:
 - **Multiplexed Video Processing**: When a video is uploaded, a custom Express backend spawns an asynchronous child process using **FFmpeg**.
-- **Stream Segmenting**: The raw media is split into 6-second `.ts` chunks and compiled into playlists for two distinct profiles:
+- **Stream Segmenting*media is split into 6-second `.ts` chunks and compiled into playlists for two distinct profiles:
   - **720p HD** (High quality, high bitrate)
   - **360p SD** (Standard quality, low bandwidth)
 - **Master Manifest (`master.m3u8`)**: A master index acts as the entry point, allowing the ReactPlayer component to perform client-side **Adaptive Bitrate (ABR)** shifts, adjusting video quality dynamically as network speeds change.
