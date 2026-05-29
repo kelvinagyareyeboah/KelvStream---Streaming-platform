@@ -5,8 +5,7 @@ KelvStream is a premium, high-performance streaming application designed to demo
 ![KelvStream Banner](banner.png)
 
 ---
-
-## ⚡ Key Highlights & Architecture
+ure
 
 ### 1. Adaptive Bitrate Streaming (HLS)
 Modern video-sharing platforms cannot deliver raw files directly to users. KelvStream features a live, local **HLS Transcoding Pipeline**:
