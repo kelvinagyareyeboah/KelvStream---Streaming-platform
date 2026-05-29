@@ -1,6 +1,4 @@
-# KelvStream – FAAorms cannot deliver raw files , local **HLS Transcoding Pipeline**:
-- **MultiplePrentinginto 6-second `.ts` chunks an
-│   │   ├── components/     # UI Comp
+# KelvStream – FAAorms cannot deliver raw files , local **HLS Transcoding PiMultiplePrentinginto 6-second│   ├── components/     # UI Comp
 │   │   └── util # AP
 ### Prerequisiteecommended)
 - **Yarn** package manager
