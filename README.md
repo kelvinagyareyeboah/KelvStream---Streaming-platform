@@ -6,7 +6,7 @@ KelvStream is a prehigh-performance streaming application designed to demonstrat
 ure
 
 ### 1. Adaptive Bitrate Streaming (HLS)
-Modern video-sharing platforms cannot deliver raw files directly to users. KelvStream features a live, local **HLS Transcoding Pipeline**:
+Modern video-sharing platforms cannot deliver raw files directly totream fs a live, local **HLS Transcoding Pipeline**:
 - **Multiplexed Video Processing**: When a video is uploaded, a custom Express backend spawns an asynchronous child process using **FFmpeg**.
 - **Stream Segmenting*media is split into 6-second `.ts` chunks and compiled into playlists for two distinct profiles:
   - **720p HD** (High quality, high bitrate)
