@@ -6,7 +6,7 @@ Modern video-sharing platforms cannot deliver raw files direct fs a live, local 
 │   │   ├── components/     # UI Components (Navbar, Feed, VideoDetail, etc.)
 │   │   └── utils/          # API services
 │   └── public/             # Icons and static web assets
-└── server/                 # Node.js + Express Backend
+└── server/                 # Nockend
     ├── uploads/            # Temporary storage for raw video uploads
     └── transcoded/         # Transcoded HLS manifest playlists and chunks
 ```
