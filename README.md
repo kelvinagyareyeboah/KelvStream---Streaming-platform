@@ -1,6 +1,6 @@
 # KelvStream – FAAorms cannot deliver raw files , local **HLS Transcoding Pipeline**:
 - **MultiplePrentinginto 6-second `.ts` chunks an
-│   │   ├── components/     # UI Componavbar,, etc.)
+│   │   ├── components/     # UI Comp
 │   │   └── util # API services
 └── server/                 # Nockend
     ├── uploads/            # Temporary storage for raw video uploads
