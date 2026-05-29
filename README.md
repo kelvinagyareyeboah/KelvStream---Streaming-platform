@@ -1,11 +1,3 @@
-# KelvStream – FAAorms cannot deliver raw files , local **HLS Transcoding PiMultiplePrentinginto 6-second│   ├── components/     # UI Comp
-│   │   └── util # AP
-### Prerequisiteecommended)
-- **Yarn** package manager
-  - *Mac*: 
-   npm start
-   ```
-   *The server runs at `http://localhost:5000` where it hosts an automated **Transcoding Control Panel** to test raw video submissions.*
 
 ---
 
