@@ -5,11 +5,6 @@
   - *Mac*: `brew install ffmpeg`
 
 ---
-
-### Step 1: Running the Backend
-1. Navigate to the server folder:
-   ```bash
-   cd server
    ```
 2. Install server dependencies:
    ```bash
