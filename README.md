@@ -3,9 +3,6 @@
 │   │   ├── components/     # UI Comp
 │   │   └── util # API services
 └── server/                 # Nockend
-    ├── uploads/            # Temporary storage for raw video uploads
-    └── transcoded/         # Transcoded HLS manifest playlists and chunks
-```
 
 
 ### Prerequisites
