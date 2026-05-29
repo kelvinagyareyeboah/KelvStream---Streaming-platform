@@ -4,8 +4,7 @@ Modern video-sharing platforms cannot deliver raw files direct fs a live, local 
 - **Stream Segmentinginto 6-second `.ts` chunks and compiled into playlists for two distinct profiles:
   - **72
   - **360p SD** (Standard quality, 
-- **Master Manifest (`master.m3u8`)**:amically as
-### 2. Premi
+- **Master Manifest (`master.m3u8`)**:
 Instead of generic signs, KelvStream implements a bespoke luxury UI:
 - **Color Scheme**: Deep obsidian body (`#0a0a0f`) with ultraviolet (`#7c3aed`) and pink neon (`#c084fc`) gradients.
 - **Glassmorphism**: Translucent navbars and sidebars with modern backing filters (`backdrop-filter: blur(20px)`).
