@@ -21,6 +21,8 @@
 
 </div>
 
+![KelvStream Banner](banner.png)
+
 ---
 
 ## `$ whoami`
