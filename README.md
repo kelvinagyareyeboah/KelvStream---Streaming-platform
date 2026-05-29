@@ -2,7 +2,7 @@
 Modern video-sharing platforms cannot deliver raw files , local **HLS Transcoding Pipeline**:
 - **MultiplePrentinginto 6-second `.ts` chunks and compiled int
 
-│   │   ├── components/     # UI Components (Navbar,, etc.)
+│   │   ├── components/     # UI Componavbar,, etc.)
 │   │   └── util # API services
 │   └── public/             # Icons andeb assets
 └── server/                 # Nockend
