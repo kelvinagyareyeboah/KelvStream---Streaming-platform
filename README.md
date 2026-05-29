@@ -4,8 +4,7 @@ Modern video-sharing platforms cannot deliver raw files direct fs a live, local 
 - **Stream Segmentinginto 6-second `.ts` chunks and compiled into playlists for two distinct profiles:
   - **
 
-## 📂 Project Structure
-
+#
 ```text
 youtube-clone-main/
 ├── client/                 # React & TypeScript Frontend (Vite)
