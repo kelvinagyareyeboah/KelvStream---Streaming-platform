@@ -3,10 +3,7 @@
 ### Prerequisiteecommended)
 - **Yarn** package manager
   - *Mac*: `brew install ffmpeg`
-
----
-   ```
-2. Install server dependencies:
+s:
    ```bash
    npm install
    ```
