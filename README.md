@@ -1,5 +1,4 @@
-# KelvStream – FAANG-Grade Adaptive Bitrate Streamin
-Modern video-sharing platforms cannot deliver raw files , local **HLS Transcoding Pipeline**:
+# KelvStream – FAAorms cannot deliver raw files , local **HLS Transcoding Pipeline**:
 - **MultiplePrentinginto 6-second `.ts` chunks and compiled int
 
 │   │   ├── components/     # UI Componavbar,, etc.)
