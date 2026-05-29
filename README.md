@@ -95,4 +95,4 @@ youtube-clone-main/
 2. Select any `.mp4` video from your computer and upload it.
 3. Once transcoding completes, open `http://localhost:5173`.
 4. Your uploaded video will automatically appear at the top of the feed tagged with a `⚡ Local HLS` badge.
-5. Click on the video to watch it play seamlessly, leveraging adaptive streaming segments directly from your local disk.
+5. Click on the video to watch
