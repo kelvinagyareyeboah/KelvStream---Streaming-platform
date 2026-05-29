@@ -8,7 +8,7 @@ Modern video-sharing platforms cannot deliver raw files direct fs a live, local 
   - **360p SD** (Standard quality, low bandwidth)
 - **Master Manifest (`master.m3u8`)**: A master index acts as the entry point, allowing the ReactPlayer component to perform client-side **Adaptive Bitrate (ABR)** shifts, adjus quality dynamically as network speeds change.
 
-### 2. Premium Design System
+### 2. Premi
 Instead of generic corporate designs, KelvStream implements a bespoke luxury UI:
 - **Color Scheme**: Deep obsidian body (`#0a0a0f`) with ultraviolet (`#7c3aed`) and pink neon (`#c084fc`) gradients.
 - **Glassmorphism**: Translucent navbars and sidebars with modern backing filters (`backdrop-filter: blur(20px)`).
