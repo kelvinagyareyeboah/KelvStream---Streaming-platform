@@ -1,10 +1,7 @@
 # KelvStream – FAAorms cannot deliver raw files , local **HLS Transcoding Pipeline**:
 - **MultiplePrentinginto 6-second `.ts` chunks an
 │   │   ├── components/     # UI Comp
-│   │   └── util # API services
-└── server/                 # Nockend
-
-
+│   │   └── util # AP
 ### Prerequisiteecommended)
 - **Yarn** package manager
 - **FFmpeg** installed on your system PATH.
