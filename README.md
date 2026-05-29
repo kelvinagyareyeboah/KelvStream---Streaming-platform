@@ -1,6 +1,6 @@
 # KelvStream – FAANG-Grade Adaptive Bitrate Streaming Platform
 
-KelvStream is a prehigh-performance streaming application designed to demonstrate the client-to-server lifecycle of modern web video delivery. Built witpeScript, and a custom CSS design system, KelvStream features a luxury dark purple/violet UI and integrates both ptive Bitrate Streaming (HLS)
+KelvStream i)
 Modern video-sharing platforms cannot deliver raw files direct fs a live, local **HLS Transcoding Pipeline**:
 - **MultipleProcessing**: When a video is uploaded, a custom Express backend spawns an asynchronous child process using *
 - **Stream Segmenting*media is split into 6-second `.ts` chunks and compiled into playlists for two distinct profiles:
