@@ -7,8 +7,6 @@ Modern video-sharing platforms cannot deliver raw files direct fs a live, local 
 #
 ```text
 youtube-clone-main/
-├── client/                 # React & TypeScript Frontend (Vite)
-│   ├── src/
 │   │   ├── components/     # UI Components (Navbar, Feed, VideoDetail, etc.)
 │   │   └── utils/          # API services
 │   └── public/             # Icons and static web assets
