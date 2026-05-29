@@ -3,10 +3,6 @@ Modern video-sharing platforms cannot deliver raw files direct fs a live, local 
 - **MultipleProcessing**: When a video is uploaded, a custom Express backend spawns an asynchronous child process using *
 - **Stream Segmentinginto 6-second `.ts` chunks and compiled into playlists for two distinct profiles:
   - **
-- **Master Manifes body (`#0a0a0f`) with ultraviolet (`#7c3aed`) and pink neon (`#c084fc`) gradients.
-- **Glassmorphism**: Translucent navbars and sidebding play button overlay triggers, card translations, and pulsating pipeline loaders.
-
----
 
 ## 📂 Project Structure
 
