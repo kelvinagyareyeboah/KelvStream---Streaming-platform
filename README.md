@@ -2,7 +2,7 @@
 
 KelvStream is a prehigh-performance streaming application designed to demonstrate the client-to-server lifecycle of modern web video delivery. Built witpeScript, and a custom CSS design system, KelvStream features a luxury dark purple/violet UI and integrates both remote YouTube v3 API media and local FFmpeg-transcoded HTTP Live Streaming (HLS) feeds.
 
-![KelvStream B
+![Ke
 ure
 
 ### 1. Adaptive Bitrate Streaming (HLS)
