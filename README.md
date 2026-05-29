@@ -1,7 +1,7 @@
 # KelvStream – FAANG-Grade Adaptive Bitrate Streamin
 Modern video-sharing platforms cannot deliver raw files direct fs a live, local **HLS Transcoding Pipeline**:
 - **MultipleProcessing**: When a video is uploaded, a custom Express backend spawns an asynchronous child process using *
-- **Stream Segmenting*media is split into 6-second `.ts` chunks and compiled into playlists for two distinct profiles:
+- **Stream Segmentinginto 6-second `.ts` chunks and compiled into playlists for two distinct profiles:
   - **72
   - **360p SD** (Standard quality, 
 - **Master Manifest (`master.m3u8`)**:amically as
