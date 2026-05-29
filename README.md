@@ -1,4 +1,4 @@
-# KelvStream – FAANG-Grade Adaptive Bitrate Streaming Platform
+# KelvStream – FAANG-Grade Adaptive Bitrate Streaming
 
 KelvStream i)
 Modern video-sharing platforms cannot deliver raw files direct fs a live, local **HLS Transcoding Pipeline**:
