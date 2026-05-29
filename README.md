@@ -2,13 +2,7 @@
 │   │   └── util # AP
 ### Prerequisiteecommended)
 - **Yarn** package manager
-  - *Mac*: `brew install ffmpeg`
-s:
-   ```bash
-   npm install
-   ```
-3. Start the transcoding server:
-   ```bash
+  - *Mac*: 
    npm start
    ```
    *The server runs at `http://localhost:5000` where it hosts an automated **Transcoding Control Panel** to test raw video submissions.*
